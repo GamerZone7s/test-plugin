@@ -1,0 +1,7 @@
+name: MyPlugin
+main: MyPlugin\Main
+src-namespace-prefix: MyPlugin
+version: 1.0.0
+api: 5.0.0
+author: GamerZone7s
+description: A simple PocketMine-MP plugin
